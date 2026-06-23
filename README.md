@@ -1,4 +1,4 @@
-# Climate Change Prediction Using Time Series Analysis 🌍
+# HeatRadar 🌍
 
 LSTM-based model that forecasts future temperature trends for major cities using historical climate data.
 
